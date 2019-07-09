@@ -12,6 +12,7 @@
         <module>spirit-netty-server</module>
         <module>spirit-client</module>
         <module>spirit-netty-client</module>
+        <module>spirit-netty-api</module>
     </modules>
 
     <name>spirit-netty</name>
